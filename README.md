@@ -5,17 +5,16 @@
 
 - 🌱 I’m currently learning **Spring Boot • JUnit • Hibernate • Advanced AWS • Deep Learning**
 
-- 👨‍💻 All of my projects are available at [[My GitHub Profile](https://github.com/Rahul-Kulkarni14)]([My GitHub Profile](https://github.com/Rahul-Kulkarni14))
+- 👨‍💻 All of my projects are available at [[My GitHub Profile](https://github.com/Rahul-Kulkarni14)]
 
 - 💬 Ask me about **Java • Python • Machine Learning • Deep Learning • Cloud (AWS) • MySQL**
 
 - 📫 How to reach me **📧 rahulkulkarni14204@gmail.com**
 
-- 📄 Know about my experiences [📄 [View My Resume](https://drive.google.com/file/d/1l8VFid8MlrY21F5qC4zJDsZkOpD-vfnu/view?usp=sharing)](📄 [View My Resume](https://drive.google.com/file/d/1l8VFid8MlrY21F5qC4zJDsZkOpD-vfnu/view?usp=sharing))
+- 📄 Know about my experiences [📄 [View My Resume](https://drive.google.com/file/d/1l8VFid8MlrY21F5qC4zJDsZkOpD-vfnu/view?usp=sharing)]
 
 - ⚡ Fun fact **⚡ Fun fact My Raspberry Pi project once sent an emergency SMS because I dropped it—10/10 realism!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
