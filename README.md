@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [📄 [View My Resume](https://drive.google.com/file/d/1l8VFid8MlrY21F5qC4zJDsZkOpD-vfnu/view?usp=sharing)]
 
-- ⚡ Fun fact **⚡ Fun fact My Raspberry Pi project once sent an emergency SMS because I dropped it—10/10 realism!**
+- ⚡ Fun fact **⚡ My Raspberry Pi project once sent an emergency SMS because I dropped it—10/10 realism!**
 
 <p align="left">
 </p>
