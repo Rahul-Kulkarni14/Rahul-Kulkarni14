@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **📧 rahulkulkarni14204@gmail.com**
 
-- 📄 Know about my experiences [📄 [View My Resume](https://drive.google.com/file/d/1l8VFid8MlrY21F5qC4zJDsZkOpD-vfnu/view?usp=sharing)]
+- 📄 Know about my experiences [📄 [View My Resume](https://drive.google.com/file/d/1JfQSkhla2PIrXONQ1wYUKPPK88P9mwJf/view?usp=drivesdk)]
 
 - ⚡ Fun fact **⚡ My Raspberry Pi project once sent an emergency SMS because I dropped it—10/10 realism!**
 
